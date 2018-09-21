@@ -1,10 +1,8 @@
-// @flow
 import React, {PureComponent} from 'react';
 import SingleSelect from '@atlaskit/single-select';
 import FieldText from '@atlaskit/field-text';
 import FieldTextArea from '@atlaskit/field-text-area';
 import Button from '@atlaskit/button';
-import {Checkbox} from '@atlaskit/checkbox';
 import {Link} from 'react-router';
 
 import './style.css'
@@ -14,7 +12,6 @@ import Form, {
   FormSection,
   FormFooter,
   Field,
-  FieldGroup,
   Validator
 } from '@atlaskit/form';
 
@@ -62,7 +59,6 @@ class QuestionForm extends PureComponent<void> {
     if (validateResult.isInvalid) {
       console.log('onSubmitHandler = Form Fields Invalid');
     } else {
-      // Now call submit when your done
       this.formRef.submit();
     }
   };
@@ -79,11 +75,12 @@ class QuestionForm extends PureComponent<void> {
           <Field label="Email" isRequired="isRequired" validators={[<Validator func={isEmailValid} invalid="Email is invalid"/>]}>
             <FieldText name="email" placeholder="name@company.com" shouldFitContainer="shouldFitContainer"/>
           </Field>
-          <Field >
+          <Field>
             <SingleSelect label="Which product would you like advice on?" items={selectItems} placeholder="Choose a product" name="product" shouldFitContainer/>
           </Field>
-
-          <FieldTextArea label="Your question" name="question" shouldFitContainer="shouldFitContainer" enableResize="true" minimumRows="7"/>
+          <Field label="Your question">
+            <FieldTextArea name="question" shouldFitContainer="shouldFitContainer" enableResize="true" minimumRows="7"/>
+          </Field>
         </FormSection>
 
         <FormFooter actionsContent={[{
