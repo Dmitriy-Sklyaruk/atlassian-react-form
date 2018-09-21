@@ -1,0 +1,28 @@
+{
+  "name": "atlassian-tes-app",
+  "version": "0.1.0",
+  "description": "Simple test form.",
+  "dependencies": {
+    "@atlaskit/button": "^9.0.10",
+    "@atlaskit/checkbox": "^5.0.0",
+    "@atlaskit/css-reset": "latest",
+    "@atlaskit/field-range": "^5.0.7",
+    "@atlaskit/field-text": "^7.0.10",
+    "@atlaskit/field-text-area": "^4.0.9",
+    "@atlaskit/form": "^4.0.9",
+    "@atlaskit/logo": "^9.2.2",
+    "@atlaskit/select": "^6.0.0",
+    "@atlaskit/single-select": "^6.0.5",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-router": "^3.0.0",
+    "react-scripts": "1.1.5",
+    "styled-components": "^3.2.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
