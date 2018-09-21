@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# ignore editor generated files
+.idea
+.iml
+
+# ignore OS generated files
+**/.DS_Store
+
+*.log
