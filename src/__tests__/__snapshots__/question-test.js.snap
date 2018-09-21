@@ -1,0 +1,474 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="form"
+>
+  <div
+    className="sc-bbmXgH jKDWiI"
+  >
+    <form
+      accept={undefined}
+      acceptCharset={undefined}
+      action="//httpbin.org/get"
+      autoComplete={undefined}
+      encType={undefined}
+      method="GET"
+      name="create-repo"
+      target="submitFrame"
+    >
+      <div
+        className="sc-jnlKLf jKMWma"
+      >
+        <h1
+          className="sc-fYxtnH dtIfvg"
+        >
+          Have a question for us?
+        </h1>
+        <span
+          className="sc-tilXH dOLAjm"
+        >
+          
+        </span>
+        <div
+          className="sc-hEsumM ghcets"
+        />
+      </div>
+      <div
+        className="sc-cIShpX grGLfb"
+      >
+        <h2
+          className="sc-kafWEX hxJWvf"
+        />
+        <div
+          className="sc-feJyhm hxiLYG"
+        />
+        <div
+          className="sc-iELTvK fyBIax"
+        >
+          <div
+            className="sc-cmTdod QhVoo"
+          >
+            <label
+              className="sc-jwKygS hBHGej"
+              htmlFor={undefined}
+            >
+              Email
+              <span
+                className="sc-lhVmIH gVMFhq"
+                role="presentation"
+              >
+                *
+              </span>
+            </label>
+            <div
+              className="sc-ksYbfQ kNzbWP"
+            >
+              <label
+                className="sc-hzDkRC gUUyQS"
+                htmlFor={undefined}
+              >
+                <div
+                  className="sc-jhAzac itadVG"
+                >
+                  <span
+                    onClick={undefined}
+                  >
+                    Email
+                  </span>
+                </div>
+              </label>
+              <div
+                className="sc-csuQGl czSprC"
+                disabled={false}
+              >
+                <div
+                  className="sc-jlyJG cuLOHi"
+                >
+                  <div
+                    className="sc-gipzik iwDnku"
+                    disabled={false}
+                    onBlurCapture={[Function]}
+                    onFocusCapture={[Function]}
+                    readOnly={false}
+                  >
+                    <input
+                      autoComplete={undefined}
+                      autoFocus={undefined}
+                      className="sc-cJSrbW jnCPHe"
+                      disabled={false}
+                      form={undefined}
+                      id={undefined}
+                      max={undefined}
+                      maxLength={undefined}
+                      min={undefined}
+                      name="email"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={undefined}
+                      onKeyPress={undefined}
+                      onKeyUp={undefined}
+                      pattern={undefined}
+                      placeholder="name@company.com"
+                      readOnly={false}
+                      required={false}
+                      spellCheck={true}
+                      type="text"
+                      value={undefined}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="sc-cmTdod QhVoo"
+          >
+            <div
+              className="sc-TOsTZ eUYUbL"
+              onKeyDown={[Function]}
+            >
+              <select
+                disabled={undefined}
+                id={undefined}
+                name="product"
+                readOnly={true}
+                required={false}
+                style={
+                  Object {
+                    "display": "none",
+                  }
+                }
+                value={undefined}
+              >
+                <option
+                  value=""
+                />
+                <optgroup
+                  label="PLAN, TRACK, SUPPORT"
+                >
+                  <option
+                    disabled={undefined}
+                    value="jira_software"
+                  >
+                    Jira Software
+                  </option>
+                  <option
+                    disabled={undefined}
+                    value="jira_service_desk"
+                  >
+                    Jira Service Desk
+                  </option>
+                  <option
+                    disabled={undefined}
+                    value="jira_core"
+                  >
+                    Jira Core
+                  </option>
+                  <option
+                    disabled={undefined}
+                    value="jira_portfolio"
+                  >
+                    Portfolio For Jira
+                  </option>
+                </optgroup>
+                <optgroup
+                  label="CODE, BUILD, SHIP"
+                >
+                  <option
+                    disabled={undefined}
+                    value="bitbucket"
+                  >
+                    Bitbucket
+                  </option>
+                  <option
+                    disabled={undefined}
+                    value="sourcetree"
+                  >
+                    Sourcetree
+                  </option>
+                  <option
+                    disabled={undefined}
+                    value="bamboo"
+                  >
+                    Bamboo
+                  </option>
+                  <option
+                    disabled={undefined}
+                    value="fisheye"
+                  >
+                    Fisheye
+                  </option>
+                  <option
+                    disabled={undefined}
+                    value="cruicible"
+                  >
+                    Cruicible
+                  </option>
+                </optgroup>
+                <optgroup
+                  label={undefined}
+                >
+                  <option
+                    disabled={undefined}
+                    value="default"
+                  >
+                    I'm not sure which product are right for me
+                  </option>
+                </optgroup>
+              </select>
+              <label
+                className="sc-hzDkRC gUUyQS"
+                htmlFor={undefined}
+              >
+                <div
+                  className="sc-jhAzac hoPzZo"
+                >
+                  <span
+                    onClick={undefined}
+                  >
+                    Which product would you like advice on?
+                  </span>
+                </div>
+              </label>
+              <div
+                className="sc-htoDjs eSTplN"
+                onClick={[Function]}
+                onKeyDown={[Function]}
+              >
+                <div>
+                  <div>
+                    <div
+                      className="sc-gZMcBi cafvfV"
+                    >
+                      <div
+                        className="sc-csuQGl czSprC"
+                        disabled={false}
+                      >
+                        <div
+                          className="sc-jlyJG cuLOHi"
+                        >
+                          <div
+                            className="sc-gipzik fIksYI"
+                            disabled={false}
+                            onBlurCapture={[Function]}
+                            onFocusCapture={[Function]}
+                            readOnly={false}
+                          >
+                            <div
+                              className="sc-kgAjT hdUIfr"
+                              onClick={[Function]}
+                              tabIndex="0"
+                            >
+                              <div
+                                className="sc-eqIVtm HCSK"
+                              >
+                                <span
+                                  className="sc-cHGsZl iOaYrs"
+                                >
+                                  Choose a product
+                                </span>
+                              </div>
+                              <div
+                                className="sc-caSCKo jcahRx"
+                              >
+                                <span
+                                  aria-label=""
+                                  className="sc-dxgOiQ eUTLXB"
+                                  dangerouslySetInnerHTML={
+                                    Object {
+                                      "__html": "<svg width=\\"24\\" height=\\"24\\" viewBox=\\"0 0 24 24\\" focusable=\\"false\\" role=\\"presentation\\"><path d=\\"M8.292 10.293a1.009 1.009 0 0 0 0 1.419l2.939 2.965c.218.215.5.322.779.322s.556-.107.769-.322l2.93-2.955a1.01 1.01 0 0 0 0-1.419.987.987 0 0 0-1.406 0l-2.298 2.317-2.307-2.327a.99.99 0 0 0-1.406 0z\\" fill=\\"currentColor\\" fill-rule=\\"evenodd\\"/></svg>",
+                                    }
+                                  }
+                                  onClick={[Function]}
+                                  size={undefined}
+                                />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="sc-htpNat bfZYYU"
+                  >
+                    <div
+                      style={
+                        Object {
+                          "height": "100%",
+                          "width": "100%",
+                        }
+                      }
+                    />
+                  </div>
+                  <div
+                    className="sc-bwzfXH hwNdMU"
+                  >
+                    <div
+                      style={
+                        Object {
+                          "left": 0,
+                          "opacity": 0,
+                          "position": "absolute",
+                          "top": 0,
+                          "transform": null,
+                          "zIndex": 400,
+                        }
+                      }
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="sc-cmTdod QhVoo"
+          >
+            <label
+              className="sc-jwKygS hBHGej"
+              htmlFor={undefined}
+            >
+              Your question
+            </label>
+            <div
+              className="sc-frDJqD jjAbYT"
+            >
+              <label
+                className="sc-hzDkRC gUUyQS"
+                htmlFor={undefined}
+              >
+                <div
+                  className="sc-jhAzac itadVG"
+                >
+                  <span
+                    onClick={undefined}
+                  >
+                    Your question
+                  </span>
+                </div>
+              </label>
+              <div
+                className="sc-csuQGl czSprC"
+                disabled={false}
+              >
+                <div
+                  className="sc-jlyJG cuLOHi"
+                >
+                  <div
+                    className="sc-gipzik iwDnku"
+                    disabled={false}
+                    onBlurCapture={[Function]}
+                    onFocusCapture={[Function]}
+                    readOnly={false}
+                  >
+                    <textarea
+                      autoFocus={undefined}
+                      className="sc-hmzhuo dWnlvW"
+                      disabled={false}
+                      id={undefined}
+                      maxLength={undefined}
+                      name="question"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      placeholder={undefined}
+                      readOnly={false}
+                      required={false}
+                      spellCheck={true}
+                      value={undefined}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer
+        className="sc-ktHwxA iOSXJu"
+      >
+        <button
+          aria-controls={undefined}
+          aria-expanded={undefined}
+          aria-haspopup={undefined}
+          aria-label={undefined}
+          className="sc-hqyNC brPBsc"
+          disabled={false}
+          form={undefined}
+          id={undefined}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onMouseDown={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          spacing="default"
+          tabIndex={undefined}
+          type="submit"
+        >
+          <span
+            onClick={[Function]}
+            style={
+              Object {
+                "alignSelf": "center",
+                "display": "inline-flex",
+                "flexWrap": "nowrap",
+                "maxWidth": "100%",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "alignItems": "center",
+                  "alignSelf": "center",
+                  "flex": "1 1 auto",
+                  "margin": "0 4px",
+                  "maxWidth": "100%",
+                  "opacity": 1,
+                  "overflow": "hidden",
+                  "textOverflow": "ellipsis",
+                  "transition": "opacity 0.3s",
+                  "whiteSpace": "nowrap",
+                }
+              }
+            >
+              Send
+            </span>
+          </span>
+        </button>
+      </footer>
+    </form>
+  </div>
+  <p>
+    Do you want to Sign Up? Click
+    <a
+      onClick={[Function]}
+      style={Object {}}
+    >
+       here
+    </a>
+  </p>
+  <p>
+    The data submitted by the form will appear below:
+  </p>
+  <iframe
+    id="submitFrame"
+    name="submitFrame"
+    style={
+      Object {
+        "borderStyle": "dashed",
+        "borderWidth": "1px",
+        "color": "#ccc",
+        "height": "400px",
+        "width": "100%",
+      }
+    }
+    title="Response Frame"
+  />
+</div>
+`;
