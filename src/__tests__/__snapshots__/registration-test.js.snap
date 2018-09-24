@@ -1,0 +1,613 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="form"
+>
+  <div
+    className="sc-kkGfuU eOTllS"
+  >
+    <form
+      accept={undefined}
+      acceptCharset={undefined}
+      action="//httpbin.org/get"
+      autoComplete={undefined}
+      encType={undefined}
+      method="GET"
+      name="registration-form"
+      target="submitFrame"
+    >
+      <div
+        className="sc-hSdWYo bIQQAp"
+      >
+        <h1
+          className="sc-eHgmQL dMpXun"
+        >
+          Please, fill fields below to sign up
+        </h1>
+        <span
+          className="sc-cvbbAY PFLjg"
+        >
+          
+        </span>
+        <div
+          className="sc-jWBwVP MNamd"
+        />
+      </div>
+      <div
+        className="sc-cMljjf cszJoS"
+      >
+        <h2
+          className="sc-jAaTju gFNKrc"
+        />
+        <div
+          className="sc-jDwBTQ cpXYFh"
+        />
+        <div
+          className="sc-gPEVay eQYmiW"
+        >
+          <div
+            className="sc-iRbamj iqvjph"
+          >
+            <label
+              className="sc-jlyJG hodjzq"
+              htmlFor={undefined}
+            >
+              First Name
+              <span
+                className="sc-csuQGl cEvNzx"
+                role="presentation"
+              >
+                *
+              </span>
+            </label>
+            <div
+              className="sc-cSHVUG irhYbB"
+            >
+              <label
+                className="sc-VigVT cxhBLs"
+                htmlFor={undefined}
+              >
+                <div
+                  className="sc-jTzLTM qNEMf"
+                >
+                  <span
+                    onClick={undefined}
+                  >
+                    First Name
+                  </span>
+                </div>
+              </label>
+              <div
+                className="sc-EHOje bccktk"
+                disabled={false}
+              >
+                <div
+                  className="sc-bxivhb kQgNxi"
+                >
+                  <div
+                    className="sc-ifAKCX cZgida"
+                    disabled={false}
+                    onBlurCapture={[Function]}
+                    onFocusCapture={[Function]}
+                    readOnly={false}
+                  >
+                    <input
+                      autoComplete={undefined}
+                      autoFocus={undefined}
+                      className="sc-jzJRlG hgeATR"
+                      disabled={false}
+                      form={undefined}
+                      id={undefined}
+                      max={undefined}
+                      maxLength={undefined}
+                      min={undefined}
+                      name="first_name"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={undefined}
+                      onKeyPress={undefined}
+                      onKeyUp={undefined}
+                      pattern={undefined}
+                      placeholder="First Name"
+                      readOnly={false}
+                      required={false}
+                      spellCheck={true}
+                      type="text"
+                      value={undefined}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="sc-iRbamj iqvjph"
+          >
+            <label
+              className="sc-jlyJG hodjzq"
+              htmlFor={undefined}
+            >
+              Last Name
+              <span
+                className="sc-csuQGl cEvNzx"
+                role="presentation"
+              >
+                *
+              </span>
+            </label>
+            <div
+              className="sc-cSHVUG irhYbB"
+            >
+              <label
+                className="sc-VigVT cxhBLs"
+                htmlFor={undefined}
+              >
+                <div
+                  className="sc-jTzLTM qNEMf"
+                >
+                  <span
+                    onClick={undefined}
+                  >
+                    Last Name
+                  </span>
+                </div>
+              </label>
+              <div
+                className="sc-EHOje bccktk"
+                disabled={false}
+              >
+                <div
+                  className="sc-bxivhb kQgNxi"
+                >
+                  <div
+                    className="sc-ifAKCX cZgida"
+                    disabled={false}
+                    onBlurCapture={[Function]}
+                    onFocusCapture={[Function]}
+                    readOnly={false}
+                  >
+                    <input
+                      autoComplete={undefined}
+                      autoFocus={undefined}
+                      className="sc-jzJRlG hgeATR"
+                      disabled={false}
+                      form={undefined}
+                      id={undefined}
+                      max={undefined}
+                      maxLength={undefined}
+                      min={undefined}
+                      name="last_name"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={undefined}
+                      onKeyPress={undefined}
+                      onKeyUp={undefined}
+                      pattern={undefined}
+                      placeholder="Last Name"
+                      readOnly={false}
+                      required={false}
+                      spellCheck={true}
+                      type="text"
+                      value={undefined}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="sc-iRbamj iqvjph"
+          >
+            <label
+              className="sc-jlyJG hodjzq"
+              htmlFor={undefined}
+            >
+              Email
+              <span
+                className="sc-csuQGl cEvNzx"
+                role="presentation"
+              >
+                *
+              </span>
+            </label>
+            <div
+              className="sc-cSHVUG irhYbB"
+            >
+              <label
+                className="sc-VigVT cxhBLs"
+                htmlFor={undefined}
+              >
+                <div
+                  className="sc-jTzLTM qNEMf"
+                >
+                  <span
+                    onClick={undefined}
+                  >
+                    Email
+                  </span>
+                </div>
+              </label>
+              <div
+                className="sc-EHOje bccktk"
+                disabled={false}
+              >
+                <div
+                  className="sc-bxivhb kQgNxi"
+                >
+                  <div
+                    className="sc-ifAKCX cZgida"
+                    disabled={false}
+                    onBlurCapture={[Function]}
+                    onFocusCapture={[Function]}
+                    readOnly={false}
+                  >
+                    <input
+                      autoComplete={undefined}
+                      autoFocus={undefined}
+                      className="sc-jzJRlG hgeATR"
+                      disabled={false}
+                      form={undefined}
+                      id={undefined}
+                      max={undefined}
+                      maxLength={undefined}
+                      min={undefined}
+                      name="email"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={undefined}
+                      onKeyPress={undefined}
+                      onKeyUp={undefined}
+                      pattern={undefined}
+                      placeholder="email@domain.com"
+                      readOnly={false}
+                      required={false}
+                      spellCheck={true}
+                      type="text"
+                      value={undefined}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="sc-iRbamj iqvjph"
+          >
+            <label
+              className="sc-jlyJG hodjzq"
+              htmlFor={undefined}
+            >
+              Password
+            </label>
+            <div
+              className="sc-cSHVUG irhYbB"
+            >
+              <label
+                className="sc-VigVT cxhBLs"
+                htmlFor={undefined}
+              >
+                <div
+                  className="sc-jTzLTM qNEMf"
+                >
+                  <span
+                    onClick={undefined}
+                  >
+                    Password
+                  </span>
+                </div>
+              </label>
+              <div
+                className="sc-EHOje bccktk"
+                disabled={false}
+              >
+                <div
+                  className="sc-bxivhb kQgNxi"
+                >
+                  <div
+                    className="sc-ifAKCX cZgida"
+                    disabled={false}
+                    onBlurCapture={[Function]}
+                    onFocusCapture={[Function]}
+                    readOnly={false}
+                  >
+                    <input
+                      autoComplete={undefined}
+                      autoFocus={undefined}
+                      className="sc-jzJRlG hgeATR"
+                      disabled={false}
+                      form={undefined}
+                      id={undefined}
+                      max={undefined}
+                      maxLength={undefined}
+                      min={undefined}
+                      name="password"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={undefined}
+                      onKeyPress={undefined}
+                      onKeyUp={undefined}
+                      pattern={undefined}
+                      placeholder={undefined}
+                      readOnly={false}
+                      required={false}
+                      spellCheck={true}
+                      type="password"
+                      value={undefined}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <p
+            form={
+              Object {
+                "fields": Object {
+                  "fieldStates": Array [],
+                  "invalidFields": Array [],
+                  "isInvalid": false,
+                  "isSubmitted": false,
+                  "isValidated": false,
+                  "validFields": Array [],
+                },
+                "getFieldByName": [Function],
+                "name": "registration-form",
+                "registerField": [Function],
+                "reset": [Function],
+                "setFieldState": [Function],
+                "submit": [Function],
+                "unregisterField": [Function],
+                "validate": [Function],
+              }
+            }
+          >
+            Subscriptions
+          </p>
+          <span
+            form={
+              Object {
+                "fields": Object {
+                  "fieldStates": Array [],
+                  "invalidFields": Array [],
+                  "isInvalid": false,
+                  "isSubmitted": false,
+                  "isValidated": false,
+                  "validFields": Array [],
+                },
+                "getFieldByName": [Function],
+                "name": "registration-form",
+                "registerField": [Function],
+                "reset": [Function],
+                "setFieldState": [Function],
+                "submit": [Function],
+                "unregisterField": [Function],
+                "validate": [Function],
+              }
+            }
+          >
+            <label
+              className="sc-jKJlTe gjcPuw"
+              defaultChecked={false}
+              onMouseDown={[Function]}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+            >
+              <span
+                className="sc-hMqMXs bFKCwS"
+              >
+                <input
+                  checked={false}
+                  className="sc-ckVGcZ AuDWf"
+                  disabled={false}
+                  name="subscriptions"
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  type="checkbox"
+                  value="news"
+                />
+                <span
+                  className="sc-kEYyzF kzDXyt"
+                >
+                  <span
+                    aria-label=""
+                    className="sc-iwsKbI gMMRgG"
+                    dangerouslySetInnerHTML={
+                      Object {
+                        "__html": "<svg width=\\"24\\" height=\\"24\\" viewBox=\\"0 0 24 24\\" focusable=\\"false\\" role=\\"presentation\\"><g fill-rule=\\"evenodd\\"><rect fill=\\"currentColor\\" x=\\"6\\" y=\\"6\\" width=\\"12\\" height=\\"12\\" rx=\\"2\\"/><path d=\\"M9.707 11.293a1 1 0 1 0-1.414 1.414l2 2a1 1 0 0 0 1.414 0l4-4a1 1 0 1 0-1.414-1.414L11 12.586l-1.293-1.293z\\" fill=\\"inherit\\"/></g></svg>",
+                      }
+                    }
+                    onClick={[Function]}
+                    size={undefined}
+                  />
+                </span>
+              </span>
+              <span
+                className="sc-eNQAEJ lojNdp"
+              >
+                Send me news to email
+              </span>
+            </label>
+            <label
+              className="sc-jKJlTe gjcPuw"
+              defaultChecked={false}
+              onMouseDown={[Function]}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+            >
+              <span
+                className="sc-hMqMXs bFKCwS"
+              >
+                <input
+                  checked={false}
+                  className="sc-ckVGcZ AuDWf"
+                  disabled={false}
+                  name="subscriptions"
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  type="checkbox"
+                  value="updates"
+                />
+                <span
+                  className="sc-kEYyzF kzDXyt"
+                >
+                  <span
+                    aria-label=""
+                    className="sc-iwsKbI gMMRgG"
+                    dangerouslySetInnerHTML={
+                      Object {
+                        "__html": "<svg width=\\"24\\" height=\\"24\\" viewBox=\\"0 0 24 24\\" focusable=\\"false\\" role=\\"presentation\\"><g fill-rule=\\"evenodd\\"><rect fill=\\"currentColor\\" x=\\"6\\" y=\\"6\\" width=\\"12\\" height=\\"12\\" rx=\\"2\\"/><path d=\\"M9.707 11.293a1 1 0 1 0-1.414 1.414l2 2a1 1 0 0 0 1.414 0l4-4a1 1 0 1 0-1.414-1.414L11 12.586l-1.293-1.293z\\" fill=\\"inherit\\"/></g></svg>",
+                      }
+                    }
+                    onClick={[Function]}
+                    size={undefined}
+                  />
+                </span>
+              </span>
+              <span
+                className="sc-eNQAEJ lojNdp"
+              >
+                I want to get latest updates
+              </span>
+            </label>
+          </span>
+        </div>
+      </div>
+      <footer
+        className="sc-brqgnP jSZKqC"
+      >
+        <button
+          aria-controls={undefined}
+          aria-expanded={undefined}
+          aria-haspopup={undefined}
+          aria-label={undefined}
+          className="sc-chPdSV djwxiL"
+          disabled={false}
+          form={undefined}
+          id={undefined}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onMouseDown={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          spacing="default"
+          tabIndex={undefined}
+          type="submit"
+        >
+          <span
+            onClick={[Function]}
+            style={
+              Object {
+                "alignSelf": "center",
+                "display": "inline-flex",
+                "flexWrap": "nowrap",
+                "maxWidth": "100%",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "alignItems": "center",
+                  "alignSelf": "center",
+                  "flex": "1 1 auto",
+                  "margin": "0 4px",
+                  "maxWidth": "100%",
+                  "opacity": 1,
+                  "overflow": "hidden",
+                  "textOverflow": "ellipsis",
+                  "transition": "opacity 0.3s",
+                  "whiteSpace": "nowrap",
+                }
+              }
+            >
+              Sign Up
+            </span>
+          </span>
+        </button>
+        <a
+          aria-label={undefined}
+          className="sc-kgoBCf hnSlud"
+          disabled={false}
+          href="/question"
+          id={undefined}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onMouseDown={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          spacing="default"
+          tabIndex={undefined}
+          target={undefined}
+        >
+          <span
+            onClick={[Function]}
+            style={
+              Object {
+                "alignSelf": "center",
+                "display": "inline-flex",
+                "flexWrap": "nowrap",
+                "maxWidth": "100%",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "alignItems": "center",
+                  "alignSelf": "center",
+                  "flex": "1 1 auto",
+                  "margin": "0 4px",
+                  "maxWidth": "100%",
+                  "opacity": 1,
+                  "overflow": "hidden",
+                  "textOverflow": "ellipsis",
+                  "transition": "opacity 0.3s",
+                  "whiteSpace": "nowrap",
+                }
+              }
+            >
+              Back
+            </span>
+          </span>
+        </a>
+      </footer>
+    </form>
+  </div>
+  <p>
+    The data submitted by the form will appear below:
+  </p>
+  <iframe
+    id="submitFrame"
+    name="submitFrame"
+    style={
+      Object {
+        "borderStyle": "dashed",
+        "borderWidth": "1px",
+        "color": "#ccc",
+        "height": "400px",
+        "width": "100%",
+      }
+    }
+    title="Response Frame"
+  />
+</div>
+`;

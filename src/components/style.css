@@ -1,0 +1,20 @@
+.header {
+  display: block;
+  overflow: hidden;
+  border: 0;
+  margin: 0 auto;
+  font: inherit;
+  background-color: #F4F5F7;
+  padding: 0 20px;
+  line-height: 72px;
+}
+
+.logo {
+  vertical-align: middle;
+}
+
+.form {
+  width: 600px;
+  margin: 0 auto;
+  minHeight: 60vh;
+}
