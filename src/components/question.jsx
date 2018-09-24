@@ -68,7 +68,7 @@ class QuestionForm extends PureComponent<void> {
       <Form name="create-repo" onSubmit={this.onSubmitHandler} onReset={this.onResetHandler} ref={form => {
           this.formRef = form;
         }}
-          onValidate={this.onValidateHandler} action="//httpbin.org/get" method="GET" target="submitFrame">
+          onValidate={this.onValidateHandler} action="//httpbin.org/post" method="POST" target="submitFrame">
         <FormHeader title="Have a question for us?" position="center"/>
 
         <FormSection label="Email">

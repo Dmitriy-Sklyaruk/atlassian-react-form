@@ -35,7 +35,7 @@ class RegistrationForm extends PureComponent<void> {
     return (<div className="form">
       <Form name="registration-form" onSubmit={this.onSubmitHandler} onReset={this.onResetHandler} ref={form => {
           this.formRef = form;
-        }} method="GET" target="submitFrame" action="//httpbin.org/get">
+        }} method="POST" target="submitFrame" action="//httpbin.org/post">
 
         <FormHeader title="Please, fill fields below to sign up"/>
 
